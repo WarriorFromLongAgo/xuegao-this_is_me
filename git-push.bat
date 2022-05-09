@@ -1,28 +1,28 @@
 
 @echo off
  
-title GIT一键提交
+title GIT push bat
 color 3
-echo 当前目录是：%cd%
+echo now file path：%cd%
 echo;
  
-echo 开始添加变更：git add .
+echo git add .
 git add .
 echo;
  
-set /p declation=输入提交的commit信息:
+set /p declation=commit message
 git commit -m "%declation%"
 echo;
  
-echo 本地主分支拉取远程主分支：git pull origin main
+echo git pull origin main
 git pull origin main
 echo;
 
-echo 将变更情况提交到远程自己分支：git push origin main
+echo git push origin main
 git push origin main
 echo;
  
-echo 执行完毕！
+echo success
 echo;
  
 pause
