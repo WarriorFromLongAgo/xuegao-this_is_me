@@ -1,7 +1,12 @@
 # xuegao-this_is_me
 一些自己的思考，一些其他的思考
 
+# 想了解我对工作的理解请直接前往
+术-工作
+https://github.com/WarriorFromLongAgo/xuegao-this_is_me/tree/main/%E6%9C%AF/%E5%B7%A5%E4%BD%9C
 
+器-工作
+https://github.com/WarriorFromLongAgo/xuegao-this_is_me/tree/main/%E5%99%A8/%E5%B7%A5%E4%BD%9C
 
 ## 道术器法的哲学概念
 
